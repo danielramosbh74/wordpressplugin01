@@ -5,7 +5,7 @@
 	Plugin uri: https://www.webmaster.inf.br/downloads/plugins/
 	Description: Esse plugin é um plugin de teste
 	Version: 1.0
-	Author: Daniel Ramos
+	Author: Daniel Ramos de Carvalho
 	Author uri: https://www.webmaster.inf.br
 	License: GPLv2 or later
 */
