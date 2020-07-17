@@ -2,11 +2,11 @@
 
 /*
 	Plugin name: Plugin Webmaster 01
-	Plugin uri: https://www.webmaster.inf.br/downloads/plugins/
+	Plugin uri: https://github.com/danielramosbh74/wordpressplugin01
 	Description: Esse plugin é um plugin de teste
 	Version: 1.0
 	Author: Daniel Ramos de Carvalho
-	Author uri: https://www.webmaster.inf.br
+	Author uri: https://github.com/danielramosbh74
 	License: GPLv2 or later
 */
 
